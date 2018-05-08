@@ -78,6 +78,7 @@ Version: 0.19   hewm2008@gmail.com      Apr 12 2018
 |       |DeteCNV        |detect CNV/Deletion Region by merge Depth info based Bam          |
 |       |LowDepth       |GiveOut bed file of low Depth Region(may BigDeletion)             |
 |       |               |                                                                  |
+|       |               |                                                                  |
 
 #### visualize
 
